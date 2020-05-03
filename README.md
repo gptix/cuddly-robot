@@ -17,7 +17,7 @@ Linear Regression, based on text, does not seem to predict very well
 
 Make sure that, when using the model to predict, a minute and day are included
 
-## QuestionS
+## Questions
 How am I getting a score if I am not incuding the time dimension?
 
 ## Improvments
